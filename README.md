@@ -5,7 +5,9 @@ TTS 엔진 부분까지는 구현하지 못했으며, Tesseract와 OpenCV를 활
 
 Tesseract, OpenCV 라이브러리에 의존성을 가지며, 본 repository에 해당 라이브러리는 포함되어있지 않습니다.
 
-<embed src="https://www.youtube.com/watch?v=huupyqaNxWM">
+<h2>Demo</h2>
+
+[![Video Label](http://img.youtube.com/vi/huupyqaNxWM/0.jpg)](https://www.youtube.com/watch?v=huupyqaNxWM)
 
 <h2>Project Details</h2>
 
@@ -18,8 +20,3 @@ Tesseract, OpenCV 라이브러리에 의존성을 가지며, 본 repository에 �
 |---|---|
 |<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>|Main algorism|
 |<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>|Image processing|
-
-<h2>Code Detail</h2>
-
-
-
